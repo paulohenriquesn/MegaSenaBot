@@ -1,0 +1,7 @@
+D:\VSProjects\megaSorteador\bin\Debug\megaSorteador.exe.config
+D:\VSProjects\megaSorteador\bin\Debug\megaSorteador.exe
+D:\VSProjects\megaSorteador\bin\Debug\megaSorteador.pdb
+D:\VSProjects\megaSorteador\obj\Debug\megaSorteador.csprojAssemblyReference.cache
+D:\VSProjects\megaSorteador\obj\Debug\megaSorteador.csproj.CoreCompileInputs.cache
+D:\VSProjects\megaSorteador\obj\Debug\megaSorteador.exe
+D:\VSProjects\megaSorteador\obj\Debug\megaSorteador.pdb
